@@ -17,3 +17,7 @@ based VPC using standard best practices.
 
 This folder contains the final output from the blog first blog post, just to
 check that your working is complete!
+
+## [03-Sample-VPC-with-EC2](./03-sample-vpc-with-ec2)
+![Solution Diagram for the Test EC2 instance](./docs/img/03-sample-vpc-with-ec2.png)
+This folder contains the starting point for the [2nd part](https://colinbarker.me.uk/blog/2023-03-04-enabling-ipv6-on-aws-using-terraform-ec2-part-2/) of my blog.
