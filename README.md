@@ -13,3 +13,7 @@ Under the [01-sample-vpc](./01-sample-vpc) directory you will find a copy
 of the base VPC and networking that we started with. This is a basic IPv4
 based VPC using standard best practices.
 
+## [02-VPC-With-IPv6](./02-vpc-with-ipv6)
+
+This folder contains the final output from the blog first blog post, just to
+check that your working is complete!
